@@ -66,6 +66,4 @@ Social Media:
  - [My Official Website](http://jimshapedcoding.com)
 
 https://youtu.be/m0LdKZ-prto
-
 Python Full Course - Learn Python in 5 hours - YouTube
-
